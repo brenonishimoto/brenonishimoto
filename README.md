@@ -1,7 +1,7 @@
 ![Breno Header](./assets/header.png)
 
 - 🎓 Computer Science undergraduate  
-- 💻 Fullstack Developer with stronger focus on **Front-end**  
+- 💻 Fullstack Developer
 
 ## 🧠 About Me
 
