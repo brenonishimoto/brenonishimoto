@@ -15,13 +15,12 @@ I enjoy learning new technologies and continuously improving my skills. Currentl
 
 - 🎨 **Front-end:** ⚛️ React · 🟨 JavaScript · 🌐 HTML5 & CSS3 · 🎨 Styled Components  
 - 🧩 **Back-end:** ☕ Java · 🔜 Spring Boot *(learning)*  
-- 🧪 **Languages:** 🅲 C · 🐍 Python · 🧬 Assembly  
+- 🧪 **Other Languages:** 🅲 C · 🐍 Python · 🧬 Assembly  
 - 🔧 **Tools:** 🗂️ Git & GitHub · 🐧 Linux · 🧠 Data Structures · 🧩 Problem Solving
 
 
 ## 📚 Currently Learning
 
 - 🌱 **Spring Boot** for back-end development
-- ⚡ **Svelte** as a modern front-end alternative
-- 🏗️ Web application architecture
+- 🤖 **Multi-Agent Systems (MAS)** & **LLM Orchestration**
 
